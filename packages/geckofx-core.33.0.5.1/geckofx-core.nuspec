@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>geckofx-core</id>
+        <version>33.0.5.1</version>
+        <authors>geckofx team</authors>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>GeckoFX core library</description>
+    </metadata>
+</package>
