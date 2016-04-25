@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppHost", "AppHost\AppHost.csproj", "{281E221D-23E0-41A7-8A05-535380BCD246}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Worker", "Worker\Worker.csproj", "{06830078-2574-4EE2-9F3D-607981666C08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{281E221D-23E0-41A7-8A05-535380BCD246}.Debug|x86.ActiveCfg = Debug|x86
+		{281E221D-23E0-41A7-8A05-535380BCD246}.Debug|x86.Build.0 = Debug|x86
+		{281E221D-23E0-41A7-8A05-535380BCD246}.Release|x86.ActiveCfg = Release|x86
+		{281E221D-23E0-41A7-8A05-535380BCD246}.Release|x86.Build.0 = Release|x86
+		{06830078-2574-4EE2-9F3D-607981666C08}.Debug|x86.ActiveCfg = Debug|x86
+		{06830078-2574-4EE2-9F3D-607981666C08}.Debug|x86.Build.0 = Debug|x86
+		{06830078-2574-4EE2-9F3D-607981666C08}.Release|x86.ActiveCfg = Release|x86
+		{06830078-2574-4EE2-9F3D-607981666C08}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
